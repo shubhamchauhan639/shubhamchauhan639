@@ -13,9 +13,11 @@
 ## 👨‍💻 About Me
 
 - 🎓 **BCA Graduate** from SRM University, Delhi (2025)
+- 📚 Currently pursuing **MCA** from Indira Gandhi University
 - 💻 Frontend Developer passionate about building **fast, beautiful, and accessible** web experiences
 - ⚛️ Specializing in **React.js**, **Next.js**, and **TypeScript**
 - 🧠 Currently exploring **full-stack development** with Node.js & MongoDB
+- 📧 Reach me at **shubhamchauhan12196@gmail.com**
 - 📍 Based in **Delhi, India**
 
 ---
@@ -53,27 +55,11 @@
 
 ## 🚀 Featured Projects
 
-### 🎬 Netflix GPT
-> A Netflix-inspired streaming platform with AI-powered search
-
-**Tech:** React · Redux Toolkit · Firebase Auth · TailwindCSS · TMDB API · Gemini AI
-
-- 🔐 Full authentication flow — Sign Up, Sign In, Sign Out, session persistence & protected routes
-- 🤖 AI-powered movie search using **Google Gemini API**
-- 🌍 Multi-language support with responsive trailer backgrounds and movie grids
-- 🎯 Custom React hooks for fetching Now Playing & Popular movies from TMDB
-
----
-
-### 🍔 Food Ordering App
-> A full-featured food ordering SPA with live listings and cart management
-
-**Tech:** React · Redux Toolkit · Vite · Jest · React Testing Library
-
-- 🛒 Cart state management with add-to-cart, quantity updates & cart summary
-- 🍽️ Live restaurant listings with dynamic API-based rendering
-- 🧪 Comprehensive **Unit & Integration test suite** with Jest and React Testing Library
-- 🔄 React Router DOM for smooth client-side navigation
+| # | Project | Live Link |
+|---|---------|-----------|
+| 🎬 | **Netflix GPT** — Netflix-inspired streaming platform with AI-powered search | — |
+| 🍔 | **Food Ordering App** — Full-featured food ordering SPA with live listings and cart management | — |
+| 📺 | **Streamly** — | — |
 
 ---
 
@@ -82,10 +68,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shubhamchauhan639&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamchauhan639&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamchauhan639&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
 ---
