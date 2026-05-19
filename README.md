@@ -16,7 +16,7 @@
 - 📚 Currently pursuing **MCA** from Indira Gandhi University
 - 💻 Frontend Developer passionate about building **fast, beautiful, and accessible** web experiences
 - ⚛️ Specializing in **React.js**, **Next.js**, and **TypeScript**
-- 🧠 Currently exploring **full-stack development** with Node.js & MongoDB
+- 🧠 Currently exploring **full-stack development** with Node.js , Express.js & MongoDB
 - 📧 Reach me at **shubhamchauhan12196@gmail.com**
 - 📍 Based in **Delhi, India**
 
