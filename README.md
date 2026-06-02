@@ -55,11 +55,11 @@
 
 ## 🚀 Featured Projects
 
-| # | Project | Live Link |
-|---|---------|-----------|
-| 🎬 | **Netflix GPT** — Netflix-inspired streaming platform with AI-powered search | — |
-| 🍔 | **Food Ordering App** — Full-featured food ordering SPA with live listings and cart management | — |
-| 📺 | **Streamly** — | — |
+| Project | Live |
+|----------|------|
+| 🎬 **Netflix GPT** | [![Live](https://img.shields.io/badge/Live-Demo-success?style=flat-square)](https://netflix-clone-kohl-ten-96.vercel.app/brouse) |
+| 🍔 **Food Ordering App** | [![Live](https://img.shields.io/badge/Live-Demo-success?style=flat-square)](https://your-food-app.vercel.app) |
+| 📺 **Streamly** | [![Live](https://img.shields.io/badge/Live-Demo-success?style=flat-square)](https://your-streamly.vercel.app) |
 
 ---
 
