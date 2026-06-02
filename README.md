@@ -66,7 +66,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamchauhan639&theme=tokyonight&hide_border=true&hide=longest_streak" width="60%" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=shubhamchauhan639&theme=tokyonight&hide_border=true&hide=longest_streak" width="60%" />
 </p>
 ---
 
