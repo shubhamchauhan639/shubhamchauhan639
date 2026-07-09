@@ -57,6 +57,8 @@
 
 | Project | Live |
 |----------|------|
+| 🎬 **DevLog** | [![Live](https://img.shields.io/badge/Live-Demo-success?style=flat-square)](https://dev-log-cyan.vercel.app/) |
+| 🎬 **PlayGrid** | [![Live](https://img.shields.io/badge/Live-Demo-success?style=flat-square)](https://play-grid-hazel.vercel.app/) |
 | 🎬 **Netflix GPT** | [![Live](https://img.shields.io/badge/Live-Demo-success?style=flat-square)](https://netflix-clone-kohl-ten-96.vercel.app/) |
 | 📺 **Streamly** | [![Live](https://img.shields.io/badge/Live-Demo-success?style=flat-square)](https://streamly-theta.vercel.app/) |
 | 🍔 **Food Ordering App** | [![Live](https://img.shields.io/badge/Live-Demo-success?style=flat-square)](https://your-food-app.vercel.app) |
