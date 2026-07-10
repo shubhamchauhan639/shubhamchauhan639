@@ -62,6 +62,7 @@
 | 🎬 **Netflix GPT** | [![Live](https://img.shields.io/badge/Live-Demo-success?style=flat-square)](https://netflix-clone-kohl-ten-96.vercel.app/) |
 | 📺 **Streamly** | [![Live](https://img.shields.io/badge/Live-Demo-success?style=flat-square)](https://streamly-theta.vercel.app/) |
 | 🍔 **Food Ordering App** | [![Live](https://img.shields.io/badge/Live-Demo-success?style=flat-square)](https://your-food-app.vercel.app) |
+| 🍔 **Music App** | [![Live](https://img.shields.io/badge/Live-Demo-success?style=flat-square)](https://music-app-74ne.vercel.app/) |
 
 
 ---
