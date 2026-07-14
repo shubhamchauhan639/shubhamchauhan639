@@ -65,14 +65,6 @@
 | 🍔 **Music App** | [![Live](https://img.shields.io/badge/Live-Demo-success?style=flat-square)](https://music-app-74ne.vercel.app/) |
 
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=shubhamchauhan639&theme=tokyonight&hide_border=true&hide=longest_streak" width="60%" />
-</p>
----
 
 ## 📬 Let's Connect!
 
