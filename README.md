@@ -2,6 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Shubham+%F0%9F%91%8B;Frontend+Developer;React.js+%7C+TypeScript+%7C+Next.js;Building+things+for+the+web" alt="Typing SVG" />
 </h1>
 
+
 <p align="center">
   <a href="mailto:shubhamchauhan12196@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/shubham-chauhan-aaa832397"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
