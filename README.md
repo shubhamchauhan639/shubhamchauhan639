@@ -2,11 +2,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Shubham+%F0%9F%91%8B;Frontend+Developer;React.js+%7C+TypeScript+%7C+Next.js;Building+things+for+the+web" alt="Typing SVG" />
 </h1>
 
-
 <p align="center">
-  <a href="mailto:shubhamchauhan12196@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/shubham-chauhan-aaa832397"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/shubhamchauhan639"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:shubhamchauhan12196@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="97" height="28" /></a> <a href="https://linkedin.com/in/shubham-chauhan-aaa832397"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="107" height="28" /></a> <a href="https://github.com/shubhamchauhan639"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="97" height="28" /></a>
 </p>
 
 ---
@@ -17,7 +14,7 @@
 - 📚 Currently pursuing **MCA** from Indira Gandhi University
 - 💻 Frontend Developer passionate about building **fast, beautiful, and accessible** web experiences
 - ⚛️ Specializing in **React.js**, **Next.js**, and **TypeScript**
-- 🧠 Currently exploring **full-stack development** with Node.js , Express.js & MongoDB
+- 🧠 Currently exploring **full-stack development** with Node.js, Express.js & MongoDB
 - 📧 Reach me at **shubhamchauhan12196@gmail.com**
 - 📍 Based in **Delhi, India**
 
@@ -26,47 +23,32 @@
 ## 🛠️ Tech Stack
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ### Frameworks & Libraries
-![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 ### State Management
-![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white) ![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 ### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ### Tools & Testing
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![React Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=flat-square&logo=testing-library&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white) ![React Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=flat-square&logo=testing-library&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Live |
-|----------|------|
-| 🎬 **DevLog** | [![Live](https://img.shields.io/badge/Live-Demo-success?style=flat-square)](https://dev-log-cyan.vercel.app/) |
-| 🎬 **PlayGrid** | [![Live](https://img.shields.io/badge/Live-Demo-success?style=flat-square)](https://play-grid-hazel.vercel.app/) |
-| 🎬 **Netflix GPT** | [![Live](https://img.shields.io/badge/Live-Demo-success?style=flat-square)](https://netflix-clone-kohl-ten-96.vercel.app/) |
-| 📺 **Streamly** | [![Live](https://img.shields.io/badge/Live-Demo-success?style=flat-square)](https://streamly-theta.vercel.app/) |
-| 🍔 **Food Ordering App** | [![Live](https://img.shields.io/badge/Live-Demo-success?style=flat-square)](https://your-food-app.vercel.app) |
-| 🍔 **Music App** | [![Live](https://img.shields.io/badge/Live-Demo-success?style=flat-square)](https://music-app-74ne.vercel.app/) |
-
-
-
+| Project | Description | Live |
+|---|---|---|
+| 🎬 **DevLog** | Developer productivity dashboard with streak tracking & AI insights | [Go Live →](https://dev-log-cyan.vercel.app/) |
+| 🧩 **PlayGrid** | Collaborative code playground for writing & sharing code snippets | [Go Live →](https://play-grid-hazel.vercel.app/) |
+| 🎥 **Netflix GPT** | Netflix clone with AI-powered movie search & recommendations | [Go Live →](https://netflix-clone-kohl-ten-96.vercel.app/) |
+| 📺 **Streamly** | YouTube-powered video streaming app | [Go Live →](https://streamly-theta.vercel.app/) |
+| 🍔 **Food Ordering App** | Food ordering web app | [Go Live →](https://your-food-app.vercel.app) |
+| 🎵 **Music App** | Web-based music player | [Go Live →](https://music-app-74ne.vercel.app/) |
 ## 📬 Let's Connect!
 
 <p align="center">
@@ -74,9 +56,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:shubhamchauhan12196@gmail.com">📧 shubhamchauhan12196@gmail.com</a> &nbsp;|&nbsp;
-  <a href="https://linkedin.com/in/shubham-chauhan-aaa832397">💼 LinkedIn</a> &nbsp;|&nbsp;
-  <a href="https://github.com/shubhamchauhan639">🐙 GitHub</a>
+  <a href="mailto:shubhamchauhan12196@gmail.com">📧 shubhamchauhan12196@gmail.com</a> &nbsp;|&nbsp; <a href="https://linkedin.com/in/shubham-chauhan-aaa832397">💼 LinkedIn</a> &nbsp;|&nbsp; <a href="https://github.com/shubhamchauhan639">🐙 GitHub</a>
 </p>
 
 ---
